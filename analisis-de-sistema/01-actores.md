@@ -8,4 +8,4 @@
 | **Pasarela de pago** | Procesar pagos de manera segura. |
 | **Servicio de envío** | Gestionar información de entrega de los pedidos. |
 | **Servicio de Facturación** | Generar comprobantes de pago. |
-| **ERP** | Proporcionar información de productos y stock. |
+| **ERP** | Proporcionar información de productos y stock |
