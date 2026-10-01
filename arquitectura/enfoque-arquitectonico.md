@@ -1,0 +1,1 @@
+![Diagrama de arquitectura](assets/captura2.png)
